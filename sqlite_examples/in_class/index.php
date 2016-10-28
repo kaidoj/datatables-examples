@@ -32,6 +32,6 @@
         </tbody>
     </table>
 </div>
-<?php include_once("analyticstracking.php") ?>
+<?php include_once("../../analyticstracking.php") ?>
 </body>
 </html>
