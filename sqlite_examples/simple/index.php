@@ -17,6 +17,7 @@
 <body id="dt_example">
 <div id="container">
     <h1>Datatables - An example of using the SQLite database </h1>
+    <p>Source codes: <a href="https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/simple">https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/simple</a></p>
     <table border="0" cellpadding="4" cellspacing="0" class="display" id="example">
         <thead>
         <tr>

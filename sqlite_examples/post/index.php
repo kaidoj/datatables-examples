@@ -20,6 +20,7 @@
 <body id="dt_example">
 <div id="container">
     <h1>Datatables - An example of using POST request instead of GET</h1>
+    <p>Source codes: <a href="https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/post">https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/post</a></p>
     <table border="0" cellpadding="4" cellspacing="0" class="display" id="example">
         <thead>
         <tr>

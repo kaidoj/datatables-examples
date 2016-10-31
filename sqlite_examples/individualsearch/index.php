@@ -48,6 +48,7 @@
 <body id="dt_example">
 <div id="container">
     <h1>Datatables - individual search example</h1>
+    <p>Source codes: <a href="https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/individualsearch">https://github.com/n1crack/datatables-examples/tree/master/sqlite_examples/individualsearch</a></p>
     <table border="0" cellpadding="4" cellspacing="0" class="display" id="example">
         <thead>
         <tr>
@@ -61,6 +62,14 @@
             <td>loading...</td>
         </tr>
         </tbody>
+        <tfoot>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+        </tfoot>
+
     </table>
 </div>
 <?php include_once("../../analyticstracking.php") ?>
