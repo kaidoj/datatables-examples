@@ -4,21 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "64354e19be20743fb51fe3139e3329be",
     "content-hash": "597b8fea7d8491c841c1408b339299fc",
     "packages": [
         {
             "name": "ozdemir/datatables",
-            "version": "1.5.5",
+            "version": "1.6.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/n1crack/datatables.git",
-                "reference": "f205e474fd9143588bae47217f976fa2acde3370"
+                "reference": "cfbd636f089c94a97c08cbd3d8ab7d0d5a2725e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/n1crack/datatables/zipball/f205e474fd9143588bae47217f976fa2acde3370",
-                "reference": "f205e474fd9143588bae47217f976fa2acde3370",
+                "url": "https://api.github.com/repos/n1crack/datatables/zipball/cfbd636f089c94a97c08cbd3d8ab7d0d5a2725e7",
+                "reference": "cfbd636f089c94a97c08cbd3d8ab7d0d5a2725e7",
                 "shasum": ""
             },
             "require-dev": {
@@ -40,8 +39,8 @@
                     "email": "yusuf@ozdemir.be"
                 }
             ],
-            "description": "Handles server-side processing for Datatables.",
-            "time": "2016-10-11 18:11:55"
+            "description": "PHP Library to handle server-side processing for Datatables, in a fast and simple way.",
+            "time": "2017-01-07T16:14:00+00:00"
         }
     ],
     "packages-dev": [],
