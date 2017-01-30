@@ -1,5 +1,5 @@
 {
     "require": {
-        "ozdemir/datatables": "^1.5"
+        "ozdemir/datatables": "1.*"
     }
 }
